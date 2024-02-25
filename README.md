@@ -30,17 +30,17 @@
 
   <section id="experience">
     <h2>Professional Experience</h2>
-    <p>Hire Dynamics
-      Logistics Specialist
+    <p>Hire Dynamics/ 
+      Logistics Specialist/ 
       March 2023 - Present</p>
-      <p>BookNook
-      Project Manager
+      <p>BookNook/ 
+      Project Manager/ 
       December 2021 - December 2022</p>
-      <p>LME Construction Services
-      Project Coordinator
+      <p>LME Construction Services/ 
+      Project Coordinator/ 
       March 2021 - December 2022</p>
-      <p>Oxburn & Anderson Business Consultants
-      Operations Associate
+      <p>Oxburn & Anderson Business Consultants/ 
+      Operations Associate/ 
       August 2020 - March 2021</p>
   </section>
 
