@@ -1,8 +1,8 @@
 <header>
     <h1>Ken Brown, Senior Consultant<br>
       Oxburn & Anderson Business Consultants</h1>
-    <p>Building a digital future, one commit at a time.</p>
-  </header>
+    <p>Building a digital future, one commit at a time.</p></header>
+    
 
   <section id="introduction">
     <h2>Introduction</h2>
